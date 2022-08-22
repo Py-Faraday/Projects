@@ -29,8 +29,8 @@ def get_episode_names() -> list:
     for url in get_episode:
         r = requests.get(url)
         name = r['name']
-        data.append(i['name'])
-    text = f'''
+        data.append(name)
+        text = f'''
 id: {data['id']}
 name: {data['name']}
 air_date:{data['air_date']}

@@ -4,7 +4,7 @@ from location import get_location_name, parse_data
 
 from main import button, menu
 from characters import get_character_names, get_character_text
-from episods import get_episode_names, get_air_date
+from episods import get_names,get_episode_names
 
 bot = telebot.TeleBot(TOKEN)
 
