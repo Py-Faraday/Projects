@@ -1,0 +1,27 @@
+[2022-08-20T06:57:15.710Z] Уровень ведения журнала: Info
+[2022-08-20T06:57:15.717Z] [info] Проверка найденного git в:git
+[2022-08-20T06:57:15.929Z] [info] Используется git 2.34.1 из git
+[2022-08-20T06:57:15.965Z] > git rev-parse --show-toplevel [13ms]
+[2022-08-20T06:57:15.965Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-08-20T06:57:15.986Z] > git rev-parse --show-toplevel [3ms]
+[2022-08-20T06:57:15.987Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-08-20T06:57:16.075Z] > git rev-parse --show-toplevel [73ms]
+[2022-08-20T06:57:16.075Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-08-20T06:57:16.152Z] > git rev-parse --show-toplevel [45ms]
+[2022-08-20T06:57:16.152Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-08-20T07:02:22.162Z] > git rev-parse --show-toplevel [22ms]
+[2022-08-20T07:02:22.162Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-08-20T07:07:25.544Z] > git rev-parse --show-toplevel [4ms]
+[2022-08-20T07:07:25.544Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-08-20T07:08:17.191Z] > git rev-parse --show-toplevel [3ms]
+[2022-08-20T07:08:17.191Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-08-20T07:08:29.344Z] > git rev-parse --show-toplevel [4ms]
+[2022-08-20T07:08:29.344Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-08-20T07:08:41.103Z] > git rev-parse --show-toplevel [4ms]
+[2022-08-20T07:08:41.104Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-08-20T07:08:54.829Z] > git rev-parse --show-toplevel [3ms]
+[2022-08-20T07:08:54.829Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-08-20T07:09:03.110Z] > git rev-parse --show-toplevel [3ms]
+[2022-08-20T07:09:03.110Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-08-20T07:09:09.501Z] > git rev-parse --show-toplevel [4ms]
+[2022-08-20T07:09:09.501Z] fatal: not a git repository (or any of the parent directories): .git

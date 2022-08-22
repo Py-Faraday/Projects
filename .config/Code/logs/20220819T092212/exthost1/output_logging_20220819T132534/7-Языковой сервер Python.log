@@ -1,0 +1,15 @@
+[Info  - 13:25:49] (15391) Pylance language server 2022.8.30 (pyright ed13daf1) starting
+[Info  - 13:25:49] (15391) Server root directory: /home/aibarchyn/.vscode/extensions/ms-python.vscode-pylance-2022.8.30/dist
+[Info  - 13:25:49] (15391) Starting service instance "telegram bot"
+[Info  - 13:25:49] (15391) Notebook support: LSP
+[Info  - 13:25:49] (15391) Interactive window support: LSP
+[Info  - 13:25:49] (15391) No configuration file found.
+[Info  - 13:25:49] (15391) No pyproject.toml file found.
+[Info  - 13:25:49] (15391) Setting pythonPath for service "telegram bot": "/bin/python3"
+[Warn  - 13:25:49] (15391) stubPath /home/aibarchyn/lessons/telegram bot/typings is not a valid directory.
+[Info  - 13:25:49] (15391) Assuming Python version 3.10
+[Info  - 13:25:49] (15391) Assuming Python platform Linux
+[Info  - 13:25:49] (15391) Searching for source files
+[Info  - 13:25:49] (15391) Found 1 source file
+[Info  - 13:25:50] (15391) Background analysis(1) root directory: /home/aibarchyn/.vscode/extensions/ms-python.vscode-pylance-2022.8.30/dist
+[Info  - 13:25:50] (15391) Background analysis(1) started

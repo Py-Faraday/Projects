@@ -1,0 +1,19 @@
+[Info  - 22:33:42] (2558) Pylance language server 2022.8.30 (pyright ed13daf1) starting
+[Info  - 22:33:42] (2558) Server root directory: /home/aibarchyn/.vscode/extensions/ms-python.vscode-pylance-2022.8.30/dist
+[Info  - 22:33:42] (2558) Starting service instance "rick_morty_bot"
+[Info  - 22:33:42] (2558) Notebook support: LSP
+[Info  - 22:33:42] (2558) Interactive window support: LSP
+[Info  - 22:33:42] (2558) No configuration file found.
+[Info  - 22:33:42] (2558) No pyproject.toml file found.
+[Info  - 22:33:42] (2558) Setting pythonPath for service "rick_morty_bot": "/home/aibarchyn/bots/rick_morty_bot/venv/bin/python"
+[Warn  - 22:33:42] (2558) stubPath /home/aibarchyn/bots/rick_morty_bot/typings is not a valid directory.
+[Info  - 22:33:42] (2558) Assuming Python version 3.10
+[Info  - 22:33:42] (2558) Assuming Python platform Linux
+[Info  - 22:33:43] (2558) Searching for source files
+[Info  - 22:33:43] (2558) Auto-excluding /home/aibarchyn/bots/rick_morty_bot/venv
+[Info  - 22:33:43] (2558) Found 6 source files
+[Info  - 22:33:43] (2558) Background analysis(1) root directory: /home/aibarchyn/.vscode/extensions/ms-python.vscode-pylance-2022.8.30/dist
+[Info  - 22:33:43] (2558) Background analysis(1) started
+[Info  - 22:34:33] (2558) Searching for source files
+[Info  - 22:34:33] (2558) Auto-excluding /home/aibarchyn/bots/rick_morty_bot/venv
+[Info  - 22:34:33] (2558) Found 7 source files

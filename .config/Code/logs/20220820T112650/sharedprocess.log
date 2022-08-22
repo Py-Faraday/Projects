@@ -1,0 +1,17 @@
+[2022-08-20 11:26:52.852] [sharedprocess] [info] Starting worker process with pid 4358 (type: fileWatcher, window: 1).
+[2022-08-20 11:27:29.633] [sharedprocess] [info] Worker process with pid 4358 terminated normally (type: fileWatcher, window: 1).
+[2022-08-20 11:27:30.394] [sharedprocess] [info] Starting worker process with pid 4470 (type: fileWatcher, window: 1).
+[2022-08-20 11:28:37.504] [sharedprocess] [info] Worker process with pid 4470 terminated normally (type: fileWatcher, window: 1).
+[2022-08-20 11:28:38.650] [sharedprocess] [info] Starting worker process with pid 4583 (type: fileWatcher, window: 1).
+[2022-08-20 11:29:26.133] [sharedprocess] [info] Worker process with pid 4583 terminated normally (type: fileWatcher, window: 1).
+[2022-08-20 11:29:27.520] [sharedprocess] [info] Starting worker process with pid 4726 (type: fileWatcher, window: 1).
+[2022-08-20 11:30:01.641] [sharedprocess] [info] Worker process with pid 4726 terminated normally (type: fileWatcher, window: 1).
+[2022-08-20 11:30:02.821] [sharedprocess] [info] Starting worker process with pid 4842 (type: fileWatcher, window: 1).
+[2022-08-20 11:32:09.169] [sharedprocess] [info] Worker process with pid 4842 terminated normally (type: fileWatcher, window: 1).
+[2022-08-20 11:32:10.550] [sharedprocess] [info] Starting worker process with pid 5045 (type: fileWatcher, window: 1).
+[2022-08-20 11:33:13.803] [sharedprocess] [info] Worker process with pid 5045 terminated normally (type: fileWatcher, window: 1).
+[2022-08-20 11:33:15.213] [sharedprocess] [info] Starting worker process with pid 5176 (type: fileWatcher, window: 1).
+[2022-08-20 12:56:17.032] [sharedprocess] [info] Worker process with pid 5176 terminated normally (type: fileWatcher, window: 1).
+[2022-08-20 12:56:19.440] [sharedprocess] [info] Starting worker process with pid 9688 (type: fileWatcher, window: 1).
+[2022-08-20 12:57:08.677] [sharedprocess] [info] Worker process with pid 9688 terminated normally (type: fileWatcher, window: 1).
+[2022-08-20 12:57:12.304] [sharedprocess] [info] Starting worker process with pid 9817 (type: fileWatcher, window: 1).

@@ -1,0 +1,12 @@
+2022/08/20-09:40:05.725 cfe Reusing MANIFEST /home/aibarchyn/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/08/20-09:40:05.725 cfe Recovering log #91
+2022/08/20-09:40:05.736 cfe Reusing old log /home/aibarchyn/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000091.log 
+2022/08/20-09:40:18.933 cfe Level-0 table #96: started
+2022/08/20-09:40:18.951 cfe Level-0 table #96: 1112488 bytes OK
+2022/08/20-09:40:18.957 cfe Delete type=0 #91
+2022/08/20-09:43:24.941 cff Compacting 1@1 + 1@2 files
+2022/08/20-09:43:24.948 cff Generated table #97@1: 460 keys, 49571 bytes
+2022/08/20-09:43:24.948 cff Compacted 1@1 + 1@2 files => 49571 bytes
+2022/08/20-09:43:24.948 cff compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/08/20-09:43:24.949 cff Delete type=2 #96
+2022/08/20-09:43:24.949 cff Delete type=2 #93

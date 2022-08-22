@@ -1,0 +1,8 @@
+[2022-08-22 09:32:00.254] [main] [info] update#setState idle
+[2022-08-22 09:32:01.426] [main] [info] Starting extension host with pid 4421 (fork() took 6 ms).
+[2022-08-22 09:32:30.268] [main] [info] update#setState checking for updates
+[2022-08-22 09:32:30.270] [main] [info] update#setState idle
+[2022-08-22 09:32:39.715] [main] [info] Extension host with pid 4421 exited with code: 0, signal: null.
+[2022-08-22 09:32:40.459] [main] [info] Starting extension host with pid 4589 (fork() took 7 ms).
+[2022-08-22 09:35:00.618] [main] [info] Extension host with pid 4589 exited with code: 0, signal: null.
+[2022-08-22 09:35:01.433] [main] [info] Starting extension host with pid 4789 (fork() took 8 ms).

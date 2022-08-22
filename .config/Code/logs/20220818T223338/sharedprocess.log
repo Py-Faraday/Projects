@@ -1,0 +1,8 @@
+[2022-08-18 22:33:40.058] [sharedprocess] [error] RequestService#request (browser) - error https://az764295.vo.msecnd.net/extensions/marketplace.json {"name":"Offline"}
+[2022-08-18 22:33:40.444] [sharedprocess] [info] Deleted from disk ms-ceintl.vscode-language-pack-ru /home/aibarchyn/.vscode/extensions/ms-ceintl.vscode-language-pack-ru-1.70.8100927
+[2022-08-18 22:33:40.897] [sharedprocess] [info] Starting worker process with pid 2517 (type: fileWatcher, window: 1).
+[2022-08-18 22:33:41.383] [sharedprocess] [info] Deleted from disk ms-python.vscode-pylance /home/aibarchyn/.vscode/extensions/ms-python.vscode-pylance-2022.8.20
+[2022-08-18 22:33:41.388] [sharedprocess] [info] Deleted from disk ms-python.python /home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0
+[2022-08-18 22:38:42.481] [sharedprocess] [error] RequestService#request (browser) - error https://az764295.vo.msecnd.net/extensions/marketplace.json {"name":"Offline"}
+[2022-08-18 22:43:42.523] [sharedprocess] [error] RequestService#request (browser) - error https://az764295.vo.msecnd.net/extensions/marketplace.json {"name":"Offline"}
+[2022-08-18 22:48:42.572] [sharedprocess] [error] RequestService#request (browser) - error https://az764295.vo.msecnd.net/extensions/marketplace.json {"name":"Offline"}

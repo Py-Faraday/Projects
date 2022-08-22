@@ -1,0 +1,26 @@
+[2022-08-18 09:11:01.846] [sharedprocess] [info] Starting worker process with pid 4056 (type: fileWatcher, window: 1).
+[2022-08-18 09:11:04.951] [sharedprocess] [info] Getting Manifest... ms-ceintl.vscode-language-pack-ru
+[2022-08-18 09:11:04.952] [sharedprocess] [info] Getting Manifest... ms-python.python
+[2022-08-18 09:11:04.955] [sharedprocess] [info] Getting Manifest... ms-python.vscode-pylance
+[2022-08-18 09:11:05.427] [sharedprocess] [info] Installing extension: ms-ceintl.vscode-language-pack-ru
+[2022-08-18 09:11:05.516] [sharedprocess] [info] Installing extension: ms-python.python
+[2022-08-18 09:11:05.894] [sharedprocess] [info] Installing extension: ms-python.vscode-pylance
+[2022-08-18 09:11:08.322] [sharedprocess] [info] Downloaded extension: ms-ceintl.vscode-language-pack-ru /home/aibarchyn/.config/Code/CachedExtensionVSIXs/ms-ceintl.vscode-language-pack-ru-1.70.8170926
+[2022-08-18 09:11:08.410] [sharedprocess] [info] Extracted extension to /home/aibarchyn/.vscode/extensions/.e7972bf5-21a8-43aa-83a3-d01608d82098: ms-ceintl.vscode-language-pack-ru
+[2022-08-18 09:11:08.413] [sharedprocess] [info] Renamed to /home/aibarchyn/.vscode/extensions/ms-ceintl.vscode-language-pack-ru-1.70.8170926
+[2022-08-18 09:11:08.414] [sharedprocess] [info] Extracting completed. ms-ceintl.vscode-language-pack-ru
+[2022-08-18 09:11:08.416] [sharedprocess] [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-ru
+[2022-08-18 09:11:08.473] [sharedprocess] [info] Extension installed successfully: ms-ceintl.vscode-language-pack-ru
+[2022-08-18 09:11:10.026] [sharedprocess] [info] Downloaded extension: ms-python.python /home/aibarchyn/.config/Code/CachedExtensionVSIXs/ms-python.python-2022.12.1
+[2022-08-18 09:11:11.499] [sharedprocess] [info] Extracted extension to /home/aibarchyn/.vscode/extensions/.44cf39db-9fd3-4318-888d-b682d659dbd3: ms-python.python
+[2022-08-18 09:11:11.523] [sharedprocess] [info] Renamed to /home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.1
+[2022-08-18 09:11:11.526] [sharedprocess] [info] Extracting completed. ms-python.python
+[2022-08-18 09:11:11.530] [sharedprocess] [info] Extension installed successfully: ms-python.python
+[2022-08-18 09:11:14.969] [sharedprocess] [info] Downloaded extension: ms-python.vscode-pylance /home/aibarchyn/.config/Code/CachedExtensionVSIXs/ms-python.vscode-pylance-2022.8.30
+[2022-08-18 09:11:16.763] [sharedprocess] [info] Extracted extension to /home/aibarchyn/.vscode/extensions/.06ab2f00-f6c3-4ede-b0a3-16cc100ac28f: ms-python.vscode-pylance
+[2022-08-18 09:11:16.780] [sharedprocess] [info] Renamed to /home/aibarchyn/.vscode/extensions/ms-python.vscode-pylance-2022.8.30
+[2022-08-18 09:11:16.782] [sharedprocess] [info] Extracting completed. ms-python.vscode-pylance
+[2022-08-18 09:11:16.786] [sharedprocess] [info] Extension installed successfully: ms-python.vscode-pylance
+[2022-08-18 09:11:41.028] [sharedprocess] [error] [uncaught exception in sharedProcess]: Произошла системная ошибка (ENOENT: no such file or directory, scandir '/home/aibarchyn/.config/Code/clp/e2673fac9b3b0beb38d486c37331d2f9.ru'): Error: ENOENT: no such file or directory, scandir '/home/aibarchyn/.config/Code/clp/e2673fac9b3b0beb38d486c37331d2f9.ru'
+[2022-08-18 10:00:05.516] [sharedprocess] [info] Worker process with pid 4056 terminated normally (type: fileWatcher, window: 1).
+[2022-08-18 10:00:06.382] [sharedprocess] [info] Starting worker process with pid 6621 (type: fileWatcher, window: 1).

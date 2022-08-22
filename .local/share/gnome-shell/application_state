@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="snap-store_ubuntu-software.desktop" score="0" last-seen="1660882532"/>
+    <application id="org.gnome.Nautilus.desktop" score="1" last-seen="1660889054"/>
+    <application id="code_code.desktop" score="23892.8125" last-seen="1661140842"/>
+    <application id="org.gnome.Terminal.desktop" score="531" last-seen="1661140852"/>
+    <application id="telegramdesktop.desktop" score="3233.3125" last-seen="1661140852"/>
+    <application id="google-chrome.desktop" score="8078.625" last-seen="1661140824"/>
+    <application id="thunderbird.desktop" score="0" last-seen="1660881037"/>
+    <application id="update-manager.desktop" score="0" last-seen="1660792289"/>
+  </context>
+</application-state>

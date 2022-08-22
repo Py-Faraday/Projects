@@ -1,0 +1,36 @@
+[Info  - 12:04:38] (13389) Pylance language server 2022.8.30 (pyright ed13daf1) starting
+[Info  - 12:04:38] (13389) Server root directory: /home/aibarchyn/.vscode/extensions/ms-python.vscode-pylance-2022.8.30/dist
+[Info  - 12:04:38] (13389) Starting service instance "hello"
+[Info  - 12:04:38] (13389) Notebook support: LSP
+[Info  - 12:04:38] (13389) Interactive window support: LSP
+[Info  - 12:04:38] (13389) No configuration file found.
+[Info  - 12:04:38] (13389) No pyproject.toml file found.
+[Info  - 12:04:38] (13389) Setting pythonPath for service "hello": "/bin/python3"
+[Warn  - 12:04:38] (13389) stubPath /home/aibarchyn/lessons/hello/typings is not a valid directory.
+[Info  - 12:04:38] (13389) Assuming Python version 3.10
+[Info  - 12:04:38] (13389) Assuming Python platform Linux
+[Info  - 12:04:39] (13389) Searching for source files
+[Info  - 12:04:39] (13389) Found 1 source file
+[Info  - 12:04:39] (13389) Background analysis(1) root directory: /home/aibarchyn/.vscode/extensions/ms-python.vscode-pylance-2022.8.30/dist
+[Info  - 12:04:39] (13389) Background analysis(1) started
+[Info  - 12:04:54] (13389) Searching for source files
+[Info  - 12:04:54] (13389) Auto-excluding /home/aibarchyn/lessons/hello/venv
+[Info  - 12:04:54] (13389) Found 1 source file
+[Info  - 12:06:15] (13389) Searching for source files
+[Info  - 12:06:15] (13389) Auto-excluding /home/aibarchyn/lessons/hello/venv
+[Info  - 12:06:15] (13389) Found 1 source file
+[Info  - 13:21:36] (13389) Searching for source files
+[Info  - 13:21:36] (13389) Auto-excluding /home/aibarchyn/lessons/hello/venv
+[Info  - 13:21:36] (13389) Found 2 source files
+[Info  - 13:21:53] (13389) Searching for source files
+[Info  - 13:21:53] (13389) Auto-excluding /home/aibarchyn/lessons/hello/venv
+[Info  - 13:21:53] (13389) Found 2 source files
+[Info  - 13:23:37] (13389) Searching for source files
+[Info  - 13:23:37] (13389) Auto-excluding /home/aibarchyn/lessons/hello/venv
+[Info  - 13:23:37] (13389) Found 3 source files
+[Info  - 13:23:46] (13389) Searching for source files
+[Info  - 13:23:46] (13389) Auto-excluding /home/aibarchyn/lessons/hello/venv
+[Info  - 13:23:46] (13389) Found 4 source files
+[Info  - 13:24:05] (13389) Searching for source files
+[Info  - 13:24:05] (13389) Auto-excluding /home/aibarchyn/lessons/hello/venv
+[Info  - 13:24:05] (13389) Found 5 source files

@@ -1,0 +1,25 @@
+[Info  - 09:54:40] (3996) Pylance language server 2022.8.20 (pyright 888eb243) starting
+[Info  - 09:54:40] (3996) Server root directory: /home/aibarchyn/.vscode/extensions/ms-python.vscode-pylance-2022.8.20/dist
+[Info  - 09:54:40] (3996) Starting service instance "game_bot"
+[Info  - 09:54:40] (3996) Notebook support: LSP
+[Info  - 09:54:40] (3996) Interactive window support: LSP
+[Info  - 09:54:40] (3996) No configuration file found.
+[Info  - 09:54:40] (3996) No pyproject.toml file found.
+[Info  - 09:54:40] (3996) Setting pythonPath for service "game_bot": "/home/aibarchyn/bots/game_bot/venv/bin/python"
+[Warn  - 09:54:40] (3996) stubPath /home/aibarchyn/bots/game_bot/typings is not a valid directory.
+[Info  - 09:54:40] (3996) Assuming Python version 3.10
+[Info  - 09:54:40] (3996) Assuming Python platform Linux
+[Info  - 09:54:40] (3996) Searching for source files
+[Info  - 09:54:40] (3996) Auto-excluding /home/aibarchyn/bots/game_bot/venv
+[Info  - 09:54:40] (3996) Found 3 source files
+[Info  - 09:54:40] (3996) Background analysis(1) root directory: /home/aibarchyn/.vscode/extensions/ms-python.vscode-pylance-2022.8.20/dist
+[Info  - 09:54:40] (3996) Background analysis(1) started
+[Info  - 09:56:16] (3996) Searching for source files
+[Info  - 09:56:16] (3996) Auto-excluding /home/aibarchyn/bots/game_bot/venv
+[Info  - 09:56:16] (3996) Found 4 source files
+[Info  - 09:57:33] (3996) Searching for source files
+[Info  - 09:57:33] (3996) Auto-excluding /home/aibarchyn/bots/game_bot/venv
+[Info  - 09:57:33] (3996) Found 4 source files
+[Info  - 10:00:23] (3996) Searching for source files
+[Info  - 10:00:23] (3996) Auto-excluding /home/aibarchyn/bots/game_bot/venv
+[Info  - 10:00:23] (3996) Found 4 source files

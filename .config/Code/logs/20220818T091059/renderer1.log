@@ -1,0 +1,13 @@
+[2022-08-18 09:55:13.694] [renderer1] [error] [Extension Host] Error: ENOENT: no such file or directory, open '/home/aibarchyn/.config/Code/clp/bb5033a0de544313f5d945d2959de1f0.ru/corrupted.info'
+[2022-08-18 09:55:13.695] [renderer1] [error] [Extension Host] Error: ENOENT: no such file or directory, open '/home/aibarchyn/.config/Code/clp/bb5033a0de544313f5d945d2959de1f0.ru/corrupted.info'
+[2022-08-18 09:55:13.695] [renderer1] [error] [Extension Host] Error: ENOENT: no such file or directory, open '/home/aibarchyn/.config/Code/clp/bb5033a0de544313f5d945d2959de1f0.ru/corrupted.info'
+[2022-08-18 10:59:28.904] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:101175)
+	at new t (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:101124)
+	at new t (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:86652)
+	at G (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.1/out/client/extension.js:2:2297898)
+	at c (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.1/out/client/extension.js:2:2335083)
+	at Object.t.map (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.1/out/client/extension.js:2:2335169)
+	at Object.asDocumentSymbols (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.1/out/client/extension.js:2:2305716)
+	at /home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.1/out/client/extension.js:2:2244261
+	at async a.provideDocumentSymbols (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:37442)

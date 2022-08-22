@@ -1,0 +1,69 @@
+{
+   "checksum": "26bdcd9cb78596b7bc6e7d3acf27910f",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13302781661527612",
+            "guid": "569d8e7b-f0c7-4a9c-85a2-545b37f82eed",
+            "id": "5",
+            "name": "Gmail",
+            "type": "url",
+            "url": "https://accounts.google.com/b/0/AddMailService"
+         }, {
+            "date_added": "13302781661528271",
+            "guid": "96c2fc16-ea04-4f71-97e5-8503acac3bb1",
+            "id": "6",
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://youtube.com/"
+         }, {
+            "date_added": "13302781661528600",
+            "guid": "532f050a-5e40-4ce1-ba9b-249783f648e9",
+            "id": "7",
+            "name": "Карты",
+            "type": "url",
+            "url": "https://maps.google.com/"
+         }, {
+            "date_added": "13302781664352962",
+            "guid": "d9d6e4fa-973b-4daf-9a94-f1a378f2c607",
+            "id": "8",
+            "name": "Перевести",
+            "type": "url",
+            "url": "https://translate.google.com/"
+         }, {
+            "date_added": "13303638364621452",
+            "guid": "e9655c44-8b03-4384-82ab-fe5ad7a420ca",
+            "id": "10",
+            "name": "особо крутая",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=3VqrZTxXf38"
+         } ],
+         "date_added": "13302781654363492",
+         "date_modified": "13303638364621452",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Панель закладок",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13302781654363496",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Другие закладки",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13302781654363498",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Моб. закладки",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "Cv4BCt0BCIiBAhLWARI8CAISOAoGCgJibRABEDMaEgkAr/TC2uUFACEAr/TC2uUFADIYChYIAhHMM1jS2uUFABgAIQAAAAAAAAAAEjwIAhI4CgYKAmJkEAAQMxoSCQCv9MLa5QUAIQCv9MLa5QUAMhgKFggCEcwzWNLa5QUAGAAhAAAAAAAAAAAgAEjrxt6uqDBwp42T8aQwkgFHCkUKFmFubm90YXRpb25fY2hyb21lX3N5bmMSBTUxIWJkGhIJAESvzdrlBQARAESvzdrlBQApHfpY0trlBQAwgIi97ay7+QISACABKhhGKzZ5MllqK21ad1h0cHRRMjN4dmFnPT0SwwEIAxK+AQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRJmWjpBRHF0QVp3bXVVd3VqRDJxRS93S3BCeDNZSC9GYTE3b1E2ODU4alphbGNlZTJpSjJUNlMrUWhKSFdleEozRTZBZGVBamJucWxCTFFBNzlWOE1scmI2aGo4bmhremdQOGxIUT09GAAgACgAMOjSxcOPh/kCOABAAEoceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAAASwwEIAhK+AQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRJmWjpBRHF0QVp4a3dPNkxWY0pmZmF4dTdxODliMVdxdUlCM2NCUkdJZTBzOG5wMUJEbUw0WVJkVUt5b2k0ZVg0Um5oeWtsbmx4MlQ2YTBLbElJUkUvRnRjSFR2Vis2WjBEQnBrQT09GAAgACgAMOjSxcOPh/kCOABAAEocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAAAS7AEIBhLnAQocSVM3QTMyYUFUbkhUWGFhTEE2bG05K2Zlazk0PRJmWjpBRHF0QVp3a3JHUTMzdHg3ZzR5bHljREV4WllKcDJMMGEvazM4NXQ5NTFoVDd5TmRGSStQNk1MczhaODE0T3hESkh0aDQ1VE4zb3Y5ZENibVRYUFFpNjBHLzR1YnQyb05Vdz09GAAgAigCMKzdlsePh/kCONSv/dahMECb5/3WoTBKHGxVM29jTHg2ZjRGUk5uUWhUU1d3cG1SVS85MD1aHyIdtkViMXBWY0lKUTd5aFdQalpWS2EyNGZvclIvVT1lOPk5MxLrAQgFEuYBChxtM3ZZbzY5NlZYU1dQYnB4dEwzYzUwWWdHTjg9EmZaOkFEcXRBWndrckdRMzN0eDdnNHlseWNERXhaWUpDdG1aZDN6N0F4dWdFMUZna0VDemxmZGd3K01UN0hjLzU1MTA1RjVmb0tZemkzdjRtV0V6YlBkK050Vkc1SFN2SU0yNC93PT0YACADKAMwzNfQhsSL+QI41K/91qEwQPy0np+iMEocK2wrcjJHNS9peE9CeDdQTzNmZWF2Wlc5ZkhZPVoeIhxtRnF3OGYzaEZFeGRHaVQvaVUraTV0Qm5hV2c9ZYugjNESqwEIARKmAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRJOWjpBRHF0QVp6a1FXclQ0U0FEZnFjbGpGZE1ITGtaYmt2UStqQ2RzWDQzRDB1Q2tZci9aQjB3SHh1UkRxWlhJUVRya2ZYNzBPVUt0Z3BxGAAgACgAMOjSxcOPh/kCOABAAEocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAAAS7AEIBxLnAQocdm5kOU5QQURpblZCMEFtbjRjSFJWUFEzMjZ3PRJmWjpBRHF0QVp3a3JHUTMzdHg3ZzR5bHljREV4WllKVjZJcmJzaTFsWjNXTXRGY2dXc3ovVk0wVkZnaUdqbUFpY1NuMGNidEVEM01wT1NMZExxbWwxTzNGWExwOGdhck9XMGhhdz09GAAgASgBMO7s9sOPh/kCONSv/dahMEDUr/3WoTBKHFZyQmtTdlFRenByQUhtMXhCRkRxa0d1N0xrdz1aHyId23ZocDcyRTFFYlJNcG1IZUlwVEJsZkJ0dzR2Yz1lpPvomBLsAQgIEucBChxVUzIwWXR5ZEV3MmgzcHFTMHBQcFE2ajVSQlk9EmZaOkFEcXRBWndrckdRMzN0eDdnNHlseWNERXhaWUp4eDFCWTVUWTV1cCt5RHJtQ25tbDQ0SnJEM2daazhFRjEvZVpUQXBEeFhDZUh3TFZFOTBKLzVuS1FtT00rM21TZFE1SEpBPT0YACACKAIwlaKp1be7+QI41K/91qEwQNLzirCoMEocbXFYc3RLN1ZBYXB6SUFaM3kvOHBONFVpQ0VRPVofIh3tVVZiYWRBUFFJTnY5dk82N01hSUZVa1RSb0NzPWXFz5ABEuwBCAoS5wEKHHZOUmdVUUU1VGpJYTlIdXdlTTFYc3Q1TEp3TT0SZlo6QURxdEFad2tyR1EzM3R4N2c0eWx5Y0RFeFpZSmVmWjk3VjVqVFhkNUxaczNmODRESlhVNXI2NDE4T212YXdBdzBMa3cxbjRvUWpQOVU2ZTBjcERzTkoxUktzaE12TnhYa2c9PRgAIAMoAzCiusy8hqD5AjjP07TvpDBAv9q176QwShxERDZ3S0N3OWVvSXJwNTdvcnhlR0g3cnJXWHM9Wh8iHfZXdEV2NEw4azBId2M1YWozdFp1MExIWDMrQWc9ZTj5OTMwATgA",
+   "version": 1
+}

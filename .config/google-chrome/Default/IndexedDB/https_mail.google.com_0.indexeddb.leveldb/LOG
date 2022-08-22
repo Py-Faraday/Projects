@@ -1,0 +1,12 @@
+2022/08/22-09:49:56.759 182c Reusing MANIFEST /home/aibarchyn/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/08/22-09:49:56.759 182c Recovering log #7
+2022/08/22-09:49:56.762 182c Reusing old log /home/aibarchyn/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000007.log 
+2022/08/22-09:49:58.196 182c Compacting 1@1 + 1@2 files
+2022/08/22-09:49:58.207 182c Generated table #10@1: 483 keys, 805372 bytes
+2022/08/22-09:49:58.207 182c Compacted 1@1 + 1@2 files => 805372 bytes
+2022/08/22-09:49:58.208 182c compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/08/22-09:49:58.208 182c Delete type=2 #8
+2022/08/22-09:49:58.208 182c Delete type=2 #5
+2022/08/22-09:50:19.463 1915 Level-0 table #12: started
+2022/08/22-09:50:19.487 1915 Level-0 table #12: 1970602 bytes OK
+2022/08/22-09:50:19.489 1915 Delete type=0 #7

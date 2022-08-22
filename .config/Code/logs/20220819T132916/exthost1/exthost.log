@@ -1,0 +1,22 @@
+[2022-08-19 13:29:18.354] [exthost] [info] Extension host with pid 15697 started
+[2022-08-19 13:29:18.354] [exthost] [info] Skipping acquiring lock for /home/aibarchyn/.config/Code/User/workspaceStorage/8ee0a7446b8cc9662b140c1a9a9ec83a.
+[2022-08-19 13:29:18.808] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-08-19 13:29:18.821] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-08-19 13:29:18.823] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+[2022-08-19 13:29:18.825] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-08-19 13:29:18.914] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-08-19 13:29:18.919] [exthost] [info] Eager extensions activated
+[2022-08-19 13:29:18.921] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-19 13:29:18.925] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-19 13:29:18.927] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-19 13:29:19.005] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-08-19 13:30:47.412] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+[2022-08-19 13:30:47.511] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+[2022-08-19 13:30:48.018] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+[2022-08-19 13:30:48.104] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-08-19 13:30:48.105] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-08-19 13:30:48.115] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-08-19 13:31:59.471] [exthost] [warning] DiagnosticCollection with name 'python' does already exist.
+[2022-08-19 13:31:59.664] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+[2022-08-19 13:32:14.236] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-08-19 13:32:14.257] [exthost] [info] Extension host with pid 15697 exiting with code 0

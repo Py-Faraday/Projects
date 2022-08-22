@@ -1,0 +1,12 @@
+[2022-08-22 09:32:02.457] [sharedprocess] [info] Starting worker process with pid 4468 (type: fileWatcher, window: 1).
+[2022-08-22 09:32:05.369] [sharedprocess] [info] Getting Manifest... pkief.material-icon-theme
+[2022-08-22 09:32:06.253] [sharedprocess] [info] Installing extension: pkief.material-icon-theme
+[2022-08-22 09:32:08.125] [sharedprocess] [info] Downloaded extension: pkief.material-icon-theme /home/aibarchyn/.config/Code/CachedExtensionVSIXs/pkief.material-icon-theme-4.20.0
+[2022-08-22 09:32:08.473] [sharedprocess] [info] Extracted extension to /home/aibarchyn/.vscode/extensions/.8c60f1a4-1661-458b-a394-078c51629456: pkief.material-icon-theme
+[2022-08-22 09:32:08.475] [sharedprocess] [info] Renamed to /home/aibarchyn/.vscode/extensions/pkief.material-icon-theme-4.20.0
+[2022-08-22 09:32:08.477] [sharedprocess] [info] Extracting completed. pkief.material-icon-theme
+[2022-08-22 09:32:08.479] [sharedprocess] [info] Extension installed successfully: pkief.material-icon-theme
+[2022-08-22 09:32:39.716] [sharedprocess] [info] Worker process with pid 4468 terminated normally (type: fileWatcher, window: 1).
+[2022-08-22 09:32:40.615] [sharedprocess] [info] Starting worker process with pid 4602 (type: fileWatcher, window: 1).
+[2022-08-22 09:35:00.617] [sharedprocess] [info] Worker process with pid 4602 terminated normally (type: fileWatcher, window: 1).
+[2022-08-22 09:35:01.830] [sharedprocess] [info] Starting worker process with pid 4802 (type: fileWatcher, window: 1).

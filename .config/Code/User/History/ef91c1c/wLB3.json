@@ -1,0 +1,6 @@
+{
+    "files.autoSave": "onFocusChange",
+    "window.zoomLevel": 4,
+    "terminal.integrated.enableMultiLinePasteWarning": false,
+    "workbench.editor.untitled.hint": "hidden"
+}

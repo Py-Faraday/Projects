@@ -1,0 +1,16 @@
+[2022-08-18 09:10:59.163] [main] [info] update#setState idle
+[2022-08-18 09:11:00.687] [main] [info] Starting extension host with pid 4021 (fork() took 12 ms).
+[2022-08-18 09:11:29.176] [main] [info] update#setState checking for updates
+[2022-08-18 09:11:29.179] [main] [info] update#setState idle
+[2022-08-18 10:00:05.535] [main] [info] Extension host with pid 4021 exited with code: 0, signal: null.
+[2022-08-18 10:00:06.378] [main] [info] Starting extension host with pid 6620 (fork() took 10 ms).
+[2022-08-18 10:11:29.278] [main] [info] update#setState checking for updates
+[2022-08-18 10:11:29.280] [main] [info] update#setState idle
+[2022-08-18 11:11:30.000] [main] [info] update#setState checking for updates
+[2022-08-18 11:11:30.002] [main] [info] update#setState idle
+[2022-08-18 12:11:30.024] [main] [info] update#setState checking for updates
+[2022-08-18 12:11:30.025] [main] [info] update#setState idle
+[2022-08-18 13:11:30.125] [main] [info] update#setState checking for updates
+[2022-08-18 13:11:30.127] [main] [info] update#setState idle
+[2022-08-18 14:11:30.137] [main] [info] update#setState checking for updates
+[2022-08-18 14:11:30.139] [main] [info] update#setState idle

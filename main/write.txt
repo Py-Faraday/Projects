@@ -1,0 +1,20 @@
+№1 Name: Rick Sanchez, Status:Alive, Origin:Citadel of Ricks
+№2 Name: Morty Smith, Status:Alive, Origin:Citadel of Ricks
+№3 Name: Summer Smith, Status:Alive, Origin:Earth (Replacement Dimension)
+№4 Name: Beth Smith, Status:Alive, Origin:Earth (Replacement Dimension)
+№5 Name: Jerry Smith, Status:Alive, Origin:Earth (Replacement Dimension)
+№6 Name: Abadango Cluster Princess, Status:Alive, Origin:Abadango
+№7 Name: Abradolf Lincler, Status:unknown, Origin:Testicle Monster Dimension
+№8 Name: Adjudicator Rick, Status:Dead, Origin:Citadel of Ricks
+№9 Name: Agency Director, Status:Dead, Origin:Earth (Replacement Dimension)
+№10 Name: Alan Rails, Status:Dead, Origin:Worldender's lair
+№11 Name: Albert Einstein, Status:Dead, Origin:Earth (Replacement Dimension)
+№12 Name: Alexander, Status:Dead, Origin:Anatomy Park
+№13 Name: Alien Googah, Status:unknown, Origin:Earth (Replacement Dimension)
+№14 Name: Alien Morty, Status:unknown, Origin:Citadel of Ricks
+№15 Name: Alien Rick, Status:unknown, Origin:Citadel of Ricks
+№16 Name: Amish Cyborg, Status:Dead, Origin:Earth (Replacement Dimension)
+№17 Name: Annie, Status:Alive, Origin:Anatomy Park
+№18 Name: Antenna Morty, Status:Alive, Origin:Citadel of Ricks
+№19 Name: Antenna Rick, Status:unknown, Origin:unknown
+№20 Name: Ants in my Eyes Johnson, Status:unknown, Origin:Interdimensional Cable

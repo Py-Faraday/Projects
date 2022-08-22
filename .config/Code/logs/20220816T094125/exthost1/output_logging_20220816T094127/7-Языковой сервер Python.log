@@ -1,0 +1,19 @@
+[Info  - 09:41:29] (3682) Pylance language server 2022.8.20 (pyright 888eb243) starting
+[Info  - 09:41:29] (3682) Server root directory: /home/aibarchyn/.vscode/extensions/ms-python.vscode-pylance-2022.8.20/dist
+[Info  - 09:41:29] (3682) Starting service instance "first_bot"
+[Info  - 09:41:29] (3682) Notebook support: LSP
+[Info  - 09:41:29] (3682) Interactive window support: LSP
+[Info  - 09:41:30] (3682) No configuration file found.
+[Info  - 09:41:30] (3682) No pyproject.toml file found.
+[Info  - 09:41:30] (3682) Setting pythonPath for service "first_bot": "/home/aibarchyn/bots/first_bot/venv/bin/python"
+[Warn  - 09:41:30] (3682) stubPath /home/aibarchyn/bots/first_bot/typings is not a valid directory.
+[Info  - 09:41:30] (3682) Assuming Python version 3.10
+[Info  - 09:41:30] (3682) Assuming Python platform Linux
+[Info  - 09:41:30] (3682) Searching for source files
+[Info  - 09:41:30] (3682) Auto-excluding /home/aibarchyn/bots/first_bot/venv
+[Info  - 09:41:30] (3682) Found 2 source files
+[Info  - 09:41:30] (3682) Background analysis(1) root directory: /home/aibarchyn/.vscode/extensions/ms-python.vscode-pylance-2022.8.20/dist
+[Info  - 09:41:30] (3682) Background analysis(1) started
+[Info  - 09:41:56] (3682) Searching for source files
+[Info  - 09:41:56] (3682) Auto-excluding /home/aibarchyn/bots/first_bot/venv
+[Info  - 09:41:56] (3682) Found 3 source files

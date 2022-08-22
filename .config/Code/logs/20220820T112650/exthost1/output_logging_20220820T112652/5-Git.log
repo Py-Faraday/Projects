@@ -1,0 +1,15 @@
+[2022-08-20T05:26:53.985Z] Уровень ведения журнала: Info
+[2022-08-20T05:26:53.990Z] [info] Проверка найденного git в:git
+[2022-08-20T05:26:54.058Z] [info] Используется git 2.34.1 из git
+[2022-08-20T05:26:54.073Z] > git rev-parse --show-toplevel [6ms]
+[2022-08-20T05:26:54.073Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-08-20T05:26:54.199Z] > git rev-parse --show-toplevel [118ms]
+[2022-08-20T05:26:54.199Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-08-20T05:26:54.208Z] > git rev-parse --show-toplevel [4ms]
+[2022-08-20T05:26:54.208Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-08-20T05:27:05.811Z] > git rev-parse --show-toplevel [4ms]
+[2022-08-20T05:27:05.811Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-08-20T05:27:07.436Z] > git rev-parse --show-toplevel [2ms]
+[2022-08-20T05:27:07.436Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-08-20T05:27:09.017Z] > git rev-parse --show-toplevel [9ms]
+[2022-08-20T05:27:09.017Z] fatal: not a git repository (or any of the parent directories): .git

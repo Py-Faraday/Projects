@@ -1,0 +1,29 @@
+[2022-08-20T05:27:31.374Z] Уровень ведения журнала: Info
+[2022-08-20T05:27:31.377Z] [info] Проверка найденного git в:git
+[2022-08-20T05:27:31.393Z] [info] Используется git 2.34.1 из git
+[2022-08-20T05:27:31.403Z] > git rev-parse --show-toplevel [2ms]
+[2022-08-20T05:27:31.403Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-08-20T05:27:31.422Z] > git rev-parse --show-toplevel [14ms]
+[2022-08-20T05:27:31.422Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-08-20T05:27:31.445Z] > git rev-parse --show-toplevel [19ms]
+[2022-08-20T05:27:31.445Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-08-20T05:27:31.460Z] > git rev-parse --show-toplevel [12ms]
+[2022-08-20T05:27:31.464Z] > git rev-parse --git-dir --git-common-dir [0ms]
+[2022-08-20T05:27:31.466Z] [info] Open repository: /home/aibarchyn/bots/rick_morty_bot
+[2022-08-20T05:27:31.474Z] > git status -z -uall [4ms]
+[2022-08-20T05:27:31.479Z] > git symbolic-ref --short HEAD [1ms]
+[2022-08-20T05:27:31.487Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+[2022-08-20T05:27:31.496Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [5ms]
+[2022-08-20T05:27:31.496Z] > git remote --verbose [1ms]
+[2022-08-20T05:27:31.504Z] > git config --get commit.template [2ms]
+[2022-08-20T05:27:31.510Z] > git status -z -uall [1ms]
+[2022-08-20T05:27:31.516Z] > git symbolic-ref --short HEAD [1ms]
+[2022-08-20T05:27:31.523Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+[2022-08-20T05:27:31.534Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]
+[2022-08-20T05:27:31.535Z] > git remote --verbose [2ms]
+[2022-08-20T05:27:31.542Z] > git config --get commit.template [1ms]
+[2022-08-20T05:27:31.994Z] > git check-ignore -v -z --stdin [2ms]
+[2022-08-20T05:27:34.130Z] > git check-ignore -v -z --stdin [2ms]
+[2022-08-20T05:27:43.339Z] > git show --textconv :bot.py [381ms]
+[2022-08-20T05:27:43.339Z] > git ls-files --stage -- /home/aibarchyn/bots/rick_morty_bot/bot.py [376ms]
+[2022-08-20T05:27:43.356Z] > git cat-file -s 8495f2d8e528034de523df73a9c55f6e3bfab5c8 [11ms]

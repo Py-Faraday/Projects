@@ -1,0 +1,65 @@
+{
+  "Version": "22.04",
+  "OEM": {
+    "Vendor": "ASUSTeK COMPUTER INC.",
+    "Product": "VivoBook_ASUSLaptop X515EA_X515EA",
+    "Family": "ASUSLaptop"
+  },
+  "BIOS": {
+    "Vendor": "American Megatrends International, LLC.",
+    "Version": "X515EA.306"
+  },
+  "Arch": "amd64",
+  "HwCap": "x86-64-v4",
+  "GPU": [
+    {
+      "Vendor": "8086",
+      "Model": "9a78"
+    }
+  ],
+  "RAM": 7.8,
+  "Partitions": [
+    244.5,
+    0.5
+  ],
+  "Screens": [
+    {
+      "Size": "340mmx190mm",
+      "Resolution": "1920x1080",
+      "Frequency": "59.88"
+    }
+  ],
+  "Autologin": false,
+  "LivePatch": false,
+  "Session": {
+    "DE": "ubuntu:GNOME",
+    "Name": "ubuntu",
+    "Type": "wayland"
+  },
+  "Language": "ru_RU",
+  "Timezone": "Asia/Bishkek",
+  "Install": {
+    "Media": "Ubuntu 22.04 LTS \"Jammy Jellyfish\" - Release amd64 (20220419)",
+    "Type": "GTK",
+    "OEM": false,
+    "PartitionMethod": "use_device",
+    "DownloadUpdates": false,
+    "Language": "ru",
+    "Minimal": false,
+    "RestrictedAddons": false,
+    "Stages": {
+      "0": "language",
+      "17": "console_setup",
+      "23": "wireless",
+      "33": "prepare",
+      "98": "wireless",
+      "125": "prepare",
+      "139": "partman",
+      "153": "start_install",
+      "158": "timezone",
+      "494": "usersetup",
+      "522": "user_done",
+      "686": "done"
+    }
+  }
+}

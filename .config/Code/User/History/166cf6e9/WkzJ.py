@@ -1,0 +1,2 @@
+hel=input('Vvedite dannye:')
+

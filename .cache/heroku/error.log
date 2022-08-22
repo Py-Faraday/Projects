@@ -1,0 +1,9 @@
+2022-08-19T05:52:19.900Z Warning: update with "sudo apt update && sudo apt install heroku"
+2022-08-19T05:52:19.900Z     at Object.warn (/usr/lib/heroku/node_modules/@oclif/command/node_modules/@oclif/errors/lib/index.js:49:15)
+2022-08-19T05:52:19.900Z     at UpdateCommand.warn (/usr/lib/heroku/node_modules/@oclif/command/lib/command.js:57:16)
+2022-08-19T05:52:19.900Z     at UpdateCommand.skipUpdate (/usr/lib/heroku/node_modules/@oclif/plugin-update/lib/commands/update.js:162:22)
+2022-08-19T05:52:19.900Z     at UpdateCommand.run (/usr/lib/heroku/node_modules/@oclif/plugin-update/lib/commands/update.js:50:39)
+2022-08-19T05:52:19.900Z     at async UpdateCommand._run (/usr/lib/heroku/node_modules/@oclif/command/lib/command.js:43:20)
+2022-08-19T05:52:19.900Z     at async Config.runCommand (/usr/lib/heroku/node_modules/@oclif/command/node_modules/@oclif/config/lib/config.js:173:24)
+2022-08-19T05:52:19.900Z     at async Main.run (/usr/lib/heroku/node_modules/@oclif/command/lib/main.js:27:9)
+2022-08-19T05:52:19.900Z     at async Main._run (/usr/lib/heroku/node_modules/@oclif/command/lib/command.js:43:20)

@@ -1,0 +1,249 @@
+{
+  "difficulty_category" : "Medium Difficulty",
+  "time_elapsed" : 20.103324000000001,
+  "cells" : [
+    {
+      "position" : [
+        0,
+        0
+      ],
+      "value" : 5,
+      "fixed" : true,
+      "earmarks" : []
+    },
+    {
+      "position" : [
+        0,
+        1
+      ],
+      "value" : 5,
+      "fixed" : false,
+      "earmarks" : []
+    },
+    {
+      "position" : [
+        0,
+        4
+      ],
+      "value" : 9,
+      "fixed" : true,
+      "earmarks" : []
+    },
+    {
+      "position" : [
+        0,
+        7
+      ],
+      "value" : 8,
+      "fixed" : true,
+      "earmarks" : []
+    },
+    {
+      "position" : [
+        1,
+        6
+      ],
+      "value" : 2,
+      "fixed" : true,
+      "earmarks" : []
+    },
+    {
+      "position" : [
+        1,
+        8
+      ],
+      "value" : 1,
+      "fixed" : true,
+      "earmarks" : []
+    },
+    {
+      "position" : [
+        2,
+        1
+      ],
+      "value" : 2,
+      "fixed" : true,
+      "earmarks" : []
+    },
+    {
+      "position" : [
+        2,
+        3
+      ],
+      "value" : 5,
+      "fixed" : true,
+      "earmarks" : []
+    },
+    {
+      "position" : [
+        2,
+        5
+      ],
+      "value" : 8,
+      "fixed" : true,
+      "earmarks" : []
+    },
+    {
+      "position" : [
+        3,
+        2
+      ],
+      "value" : 6,
+      "fixed" : true,
+      "earmarks" : []
+    },
+    {
+      "position" : [
+        3,
+        3
+      ],
+      "value" : 9,
+      "fixed" : true,
+      "earmarks" : []
+    },
+    {
+      "position" : [
+        3,
+        8
+      ],
+      "value" : 8,
+      "fixed" : true,
+      "earmarks" : []
+    },
+    {
+      "position" : [
+        4,
+        0
+      ],
+      "value" : 4,
+      "fixed" : true,
+      "earmarks" : []
+    },
+    {
+      "position" : [
+        4,
+        2
+      ],
+      "value" : 7,
+      "fixed" : true,
+      "earmarks" : []
+    },
+    {
+      "position" : [
+        4,
+        4
+      ],
+      "value" : 3,
+      "fixed" : true,
+      "earmarks" : []
+    },
+    {
+      "position" : [
+        4,
+        5
+      ],
+      "value" : 5,
+      "fixed" : true,
+      "earmarks" : []
+    },
+    {
+      "position" : [
+        5,
+        2
+      ],
+      "value" : 8,
+      "fixed" : true,
+      "earmarks" : []
+    },
+    {
+      "position" : [
+        5,
+        3
+      ],
+      "value" : 4,
+      "fixed" : true,
+      "earmarks" : []
+    },
+    {
+      "position" : [
+        5,
+        8
+      ],
+      "value" : 3,
+      "fixed" : true,
+      "earmarks" : []
+    },
+    {
+      "position" : [
+        6,
+        1
+      ],
+      "value" : 7,
+      "fixed" : true,
+      "earmarks" : []
+    },
+    {
+      "position" : [
+        6,
+        3
+      ],
+      "value" : 1,
+      "fixed" : true,
+      "earmarks" : []
+    },
+    {
+      "position" : [
+        6,
+        5
+      ],
+      "value" : 6,
+      "fixed" : true,
+      "earmarks" : []
+    },
+    {
+      "position" : [
+        7,
+        6
+      ],
+      "value" : 9,
+      "fixed" : true,
+      "earmarks" : []
+    },
+    {
+      "position" : [
+        7,
+        8
+      ],
+      "value" : 7,
+      "fixed" : true,
+      "earmarks" : []
+    },
+    {
+      "position" : [
+        8,
+        0
+      ],
+      "value" : 3,
+      "fixed" : true,
+      "earmarks" : []
+    },
+    {
+      "position" : [
+        8,
+        4
+      ],
+      "value" : 7,
+      "fixed" : true,
+      "earmarks" : []
+    },
+    {
+      "position" : [
+        8,
+        7
+      ],
+      "value" : 1,
+      "fixed" : true,
+      "earmarks" : []
+    }
+  ]
+}

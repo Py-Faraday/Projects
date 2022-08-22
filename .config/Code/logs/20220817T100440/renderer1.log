@@ -1,0 +1,310 @@
+[2022-08-17 13:01:37.763] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:101175)
+	at new t (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:101124)
+	at new t (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:86652)
+	at G (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2297898)
+	at c (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2335083)
+	at Object.t.map (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2335169)
+	at Object.asDocumentSymbols (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2305716)
+	at /home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2244261
+	at async a.provideDocumentSymbols (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:37442)
+[2022-08-17 13:01:39.040] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:101175)
+	at new t (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:101124)
+	at new t (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:86652)
+	at G (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2297898)
+	at c (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2335083)
+	at Object.t.map (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2335169)
+	at Object.asDocumentSymbols (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2305716)
+	at /home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2244261
+	at async a.provideDocumentSymbols (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:37442)
+[2022-08-17 13:01:40.084] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:101175)
+	at new t (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:101124)
+	at new t (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:86652)
+	at G (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2297898)
+	at c (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2335083)
+	at Object.t.map (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2335169)
+	at Object.asDocumentSymbols (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2305716)
+	at /home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2244261
+	at async a.provideDocumentSymbols (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:37442)
+[2022-08-17 13:01:44.045] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:101175)
+	at new t (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:101124)
+	at new t (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:86652)
+	at G (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2297898)
+	at c (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2335083)
+	at Object.t.map (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2335169)
+	at Object.asDocumentSymbols (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2305716)
+	at /home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2244261
+	at async a.provideDocumentSymbols (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:37442)
+[2022-08-17 13:01:45.261] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:101175)
+	at new t (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:101124)
+	at new t (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:86652)
+	at G (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2297898)
+	at c (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2335083)
+	at Object.t.map (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2335169)
+	at Object.asDocumentSymbols (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2305716)
+	at /home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2244261
+	at async a.provideDocumentSymbols (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:37442)
+[2022-08-17 13:01:46.540] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:101175)
+	at new t (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:101124)
+	at new t (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:86652)
+	at G (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2297898)
+	at c (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2335083)
+	at Object.t.map (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2335169)
+	at Object.asDocumentSymbols (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2305716)
+	at /home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2244261
+	at async a.provideDocumentSymbols (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:37442)
+[2022-08-17 13:01:48.691] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:101175)
+	at new t (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:101124)
+	at new t (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:86652)
+	at G (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2297898)
+	at c (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2335083)
+	at Object.t.map (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2335169)
+	at Object.asDocumentSymbols (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2305716)
+	at /home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2244261
+	at async a.provideDocumentSymbols (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:37442)
+[2022-08-17 13:01:51.181] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:101175)
+	at new t (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:101124)
+	at new t (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:86652)
+	at G (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2297898)
+	at c (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2335083)
+	at Object.t.map (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2335169)
+	at Object.asDocumentSymbols (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2305716)
+	at /home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2244261
+	at async a.provideDocumentSymbols (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:37442)
+[2022-08-17 13:01:52.710] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:101175)
+	at new t (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:101124)
+	at new t (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:86652)
+	at G (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2297898)
+	at c (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2335083)
+	at Object.t.map (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2335169)
+	at Object.asDocumentSymbols (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2305716)
+	at /home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2244261
+	at async a.provideDocumentSymbols (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:37442)
+[2022-08-17 13:01:55.478] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:101175)
+	at new t (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:101124)
+	at new t (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:86652)
+	at G (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2297898)
+	at c (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2335083)
+	at Object.t.map (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2335169)
+	at Object.asDocumentSymbols (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2305716)
+	at /home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2244261
+	at async a.provideDocumentSymbols (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:37442)
+[2022-08-17 13:01:56.528] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:101175)
+	at new t (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:101124)
+	at new t (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:86652)
+	at G (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2297898)
+	at c (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2335083)
+	at Object.t.map (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2335169)
+	at Object.asDocumentSymbols (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2305716)
+	at /home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2244261
+	at async a.provideDocumentSymbols (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:37442)
+[2022-08-17 13:01:57.550] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:101175)
+	at new t (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:101124)
+	at new t (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:86652)
+	at G (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2297898)
+	at c (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2335083)
+	at Object.t.map (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2335169)
+	at Object.asDocumentSymbols (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2305716)
+	at /home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2244261
+	at async a.provideDocumentSymbols (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:37442)
+[2022-08-17 13:01:58.928] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:101175)
+	at new t (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:101124)
+	at new t (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:86652)
+	at G (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2297898)
+	at c (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2335083)
+	at Object.t.map (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2335169)
+	at Object.asDocumentSymbols (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2305716)
+	at /home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2244261
+	at async a.provideDocumentSymbols (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:37442)
+[2022-08-17 13:01:59.999] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:101175)
+	at new t (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:101124)
+	at new t (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:86652)
+	at G (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2297898)
+	at c (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2335083)
+	at Object.t.map (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2335169)
+	at Object.asDocumentSymbols (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2305716)
+	at /home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2244261
+	at async a.provideDocumentSymbols (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:37442)
+[2022-08-17 13:02:04.627] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:101175)
+	at new t (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:101124)
+	at new t (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:86652)
+	at G (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2297898)
+	at c (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2335083)
+	at Object.t.map (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2335169)
+	at Object.asDocumentSymbols (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2305716)
+	at /home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2244261
+	at async a.provideDocumentSymbols (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:37442)
+[2022-08-17 13:04:22.278] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:101175)
+	at new t (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:101124)
+	at new t (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:86652)
+	at G (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2297898)
+	at c (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2335083)
+	at Object.t.map (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2335169)
+	at Object.asDocumentSymbols (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2305716)
+	at /home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2244261
+	at async a.provideDocumentSymbols (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:37442)
+[2022-08-17 13:04:24.096] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:101175)
+	at new t (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:101124)
+	at new t (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:86652)
+	at G (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2297898)
+	at c (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2335083)
+	at Object.t.map (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2335169)
+	at Object.asDocumentSymbols (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2305716)
+	at /home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2244261
+	at async a.provideDocumentSymbols (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:37442)
+[2022-08-17 13:04:25.516] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:101175)
+	at new t (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:101124)
+	at new t (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:86652)
+	at G (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2297898)
+	at c (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2335083)
+	at Object.t.map (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2335169)
+	at Object.asDocumentSymbols (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2305716)
+	at /home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2244261
+	at async a.provideDocumentSymbols (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:37442)
+[2022-08-17 13:04:27.369] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:101175)
+	at new t (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:101124)
+	at new t (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:86652)
+	at G (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2297898)
+	at c (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2335083)
+	at Object.t.map (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2335169)
+	at Object.asDocumentSymbols (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2305716)
+	at /home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2244261
+	at async a.provideDocumentSymbols (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:37442)
+[2022-08-17 13:04:31.122] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:101175)
+	at new t (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:101124)
+	at new t (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:86652)
+	at G (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2297898)
+	at c (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2335083)
+	at Object.t.map (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2335169)
+	at Object.asDocumentSymbols (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2305716)
+	at /home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2244261
+	at async a.provideDocumentSymbols (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:37442)
+[2022-08-17 13:04:33.107] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:101175)
+	at new t (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:101124)
+	at new t (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:86652)
+	at G (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2297898)
+	at c (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2335083)
+	at Object.t.map (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2335169)
+	at Object.asDocumentSymbols (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2305716)
+	at /home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2244261
+	at async a.provideDocumentSymbols (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:37442)
+[2022-08-17 13:04:34.730] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:101175)
+	at new t (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:101124)
+	at new t (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:86652)
+	at G (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2297898)
+	at c (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2335083)
+	at Object.t.map (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2335169)
+	at Object.asDocumentSymbols (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2305716)
+	at /home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2244261
+	at async a.provideDocumentSymbols (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:37442)
+[2022-08-17 13:04:37.055] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:101175)
+	at new t (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:101124)
+	at new t (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:86652)
+	at G (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2297898)
+	at c (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2335083)
+	at Object.t.map (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2335169)
+	at Object.asDocumentSymbols (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2305716)
+	at /home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2244261
+	at async a.provideDocumentSymbols (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:37442)
+[2022-08-17 13:04:39.574] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:101175)
+	at new t (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:101124)
+	at new t (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:86652)
+	at G (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2297898)
+	at c (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2335083)
+	at Object.t.map (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2335169)
+	at Object.asDocumentSymbols (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2305716)
+	at /home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2244261
+	at async a.provideDocumentSymbols (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:37442)
+[2022-08-17 13:04:41.486] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:101175)
+	at new t (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:101124)
+	at new t (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:86652)
+	at G (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2297898)
+	at c (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2335083)
+	at Object.t.map (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2335169)
+	at Object.asDocumentSymbols (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2305716)
+	at /home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2244261
+	at async a.provideDocumentSymbols (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:37442)
+[2022-08-17 13:04:43.924] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:101175)
+	at new t (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:101124)
+	at new t (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:86652)
+	at G (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2297898)
+	at c (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2335083)
+	at Object.t.map (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2335169)
+	at Object.asDocumentSymbols (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2305716)
+	at /home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2244261
+	at async a.provideDocumentSymbols (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:37442)
+[2022-08-17 13:04:45.271] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:101175)
+	at new t (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:101124)
+	at new t (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:86652)
+	at G (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2297898)
+	at c (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2335083)
+	at Object.t.map (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2335169)
+	at Object.asDocumentSymbols (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2305716)
+	at /home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2244261
+	at async a.provideDocumentSymbols (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:37442)
+[2022-08-17 13:04:46.484] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:101175)
+	at new t (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:101124)
+	at new t (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:86652)
+	at G (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2297898)
+	at c (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2335083)
+	at Object.t.map (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2335169)
+	at Object.asDocumentSymbols (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2305716)
+	at /home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2244261
+	at async a.provideDocumentSymbols (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:37442)
+[2022-08-17 13:04:47.896] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:101175)
+	at new t (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:101124)
+	at new t (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:86652)
+	at G (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2297898)
+	at c (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2335083)
+	at Object.t.map (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2335169)
+	at Object.asDocumentSymbols (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2305716)
+	at /home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2244261
+	at async a.provideDocumentSymbols (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:37442)
+[2022-08-17 13:04:50.239] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:101175)
+	at new t (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:101124)
+	at new t (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:86652)
+	at G (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2297898)
+	at c (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2335083)
+	at Object.t.map (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2335169)
+	at Object.asDocumentSymbols (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2305716)
+	at /home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2244261
+	at async a.provideDocumentSymbols (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:37442)
+[2022-08-17 13:04:52.371] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:101175)
+	at new t (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:101124)
+	at new t (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:86652)
+	at G (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2297898)
+	at c (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2335083)
+	at Object.t.map (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2335169)
+	at Object.asDocumentSymbols (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2305716)
+	at /home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2244261
+	at async a.provideDocumentSymbols (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:37442)

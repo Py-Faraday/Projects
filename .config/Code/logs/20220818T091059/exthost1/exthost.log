@@ -1,0 +1,59 @@
+[2022-08-18 09:11:01.571] [exthost] [info] Extension host with pid 4021 started
+[2022-08-18 09:11:01.571] [exthost] [info] Skipping acquiring lock for /home/aibarchyn/.config/Code/User/workspaceStorage/efad032b21899594b2a2299f2d22540f.
+[2022-08-18 09:11:01.928] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+[2022-08-18 09:11:02.073] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+[2022-08-18 09:11:02.234] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-08-18 09:11:02.253] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-08-18 09:11:02.255] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-08-18 09:11:02.258] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-08-18 09:11:02.696] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-08-18 09:11:02.714] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-08-18 09:11:02.718] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+[2022-08-18 09:11:02.786] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+[2022-08-18 09:11:02.874] [exthost] [info] Eager extensions activated
+[2022-08-18 09:11:02.939] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-18 09:11:02.952] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-18 09:11:02.955] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-18 09:11:02.968] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-08-18 09:11:03.100] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-08-18 09:11:03.104] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-08-18 09:11:03.125] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-08-18 09:55:13.633] [exthost] [info] ExtensionService#_doActivateExtension vscode.grunt, startup: false, activationEvent: 'onTaskType:grunt'
+[2022-08-18 09:55:13.637] [exthost] [info] ExtensionService#_doActivateExtension vscode.gulp, startup: false, activationEvent: 'onTaskType:gulp'
+[2022-08-18 09:55:13.640] [exthost] [info] ExtensionService#_doActivateExtension vscode.jake, startup: false, activationEvent: 'onTaskType:jake'
+[2022-08-18 09:55:13.642] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTaskType:npm'
+[2022-08-18 10:00:05.483] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-08-18 10:00:05.509] [exthost] [error] Error: read ECONNRESET
+	at Pipe.onStreamRead (node:internal/stream_base_commons:220:20)
+[2022-08-18 10:00:05.513] [exthost] [info] Extension host with pid 4021 exiting with code 0
+[2022-08-18 10:00:07.303] [exthost] [info] Extension host with pid 6620 started
+[2022-08-18 10:00:07.303] [exthost] [info] Skipping acquiring lock for /home/aibarchyn/.config/Code/User/workspaceStorage/729bd15dc66227388915a9ea962e3ec8.
+[2022-08-18 10:00:07.369] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-08-18 10:00:07.382] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-08-18 10:00:07.384] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-08-18 10:00:07.385] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-08-18 10:00:07.387] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python, startup: true, activationEvent: 'workspaceContains:requirements.txt'
+[2022-08-18 10:00:07.640] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-08-18 10:00:07.656] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-08-18 10:00:07.722] [exthost] [info] Eager extensions activated
+[2022-08-18 10:00:07.737] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-08-18 10:00:07.745] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-18 10:00:07.750] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-18 10:00:07.753] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-18 10:03:37.927] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+[2022-08-18 10:03:38.227] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+[2022-08-18 10:03:39.087] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+[2022-08-18 10:03:39.248] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-08-18 10:03:39.251] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-08-18 10:03:39.282] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-08-18 10:59:28.870] [exthost] [error] [ms-python.python] provider FAILED
+[2022-08-18 10:59:28.870] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:101175)
+	at new t (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:101124)
+	at new t (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:78:86652)
+	at G (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.1/out/client/extension.js:2:2297898)
+	at c (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.1/out/client/extension.js:2:2335083)
+	at Object.t.map (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.1/out/client/extension.js:2:2335169)
+	at Object.asDocumentSymbols (/home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.1/out/client/extension.js:2:2305716)
+	at /home/aibarchyn/.vscode/extensions/ms-python.python-2022.12.1/out/client/extension.js:2:2244261
+	at async a.provideDocumentSymbols (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:37442)

@@ -1,0 +1,9 @@
+{
+    "files.autoSave": "onFocusChange",
+    "window.zoomLevel": 2,
+    "terminal.integrated.enableMultiLinePasteWarning": false,
+    "workbench.editor.untitled.hint": "hidden",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "GitHub Dark Dimmed",
+    "explorer.confirmDelete": false
+}

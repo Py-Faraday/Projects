@@ -1,0 +1,24 @@
+[Info  - 10:05:24] (4775) Pylance language server 2022.8.20 (pyright 888eb243) starting
+[Info  - 10:05:24] (4775) Server root directory: /home/aibarchyn/.vscode/extensions/ms-python.vscode-pylance-2022.8.20/dist
+[Info  - 10:05:24] (4775) Starting service instance "main"
+[Info  - 10:05:24] (4775) Notebook support: LSP
+[Info  - 10:05:24] (4775) Interactive window support: LSP
+[Info  - 10:05:24] (4775) No configuration file found.
+[Info  - 10:05:24] (4775) No pyproject.toml file found.
+[Info  - 10:05:24] (4775) Setting pythonPath for service "main": "/bin/python3"
+[Warn  - 10:05:24] (4775) stubPath /home/aibarchyn/main/typings is not a valid directory.
+[Info  - 10:05:24] (4775) Assuming Python version 3.10
+[Info  - 10:05:24] (4775) Assuming Python platform Linux
+[Info  - 10:05:24] (4775) Searching for source files
+[Info  - 10:05:24] (4775) Found 1 source file
+[Info  - 10:05:24] (4775) Background analysis(1) root directory: /home/aibarchyn/.vscode/extensions/ms-python.vscode-pylance-2022.8.20/dist
+[Info  - 10:05:24] (4775) Background analysis(1) started
+[Info  - 10:05:45] (4775) Searching for source files
+[Info  - 10:05:45] (4775) Auto-excluding /home/aibarchyn/main/venv
+[Info  - 10:05:45] (4775) Found 1 source file
+[Info  - 12:08:51] (4775) Searching for source files
+[Info  - 12:08:51] (4775) Auto-excluding /home/aibarchyn/main/venv
+[Info  - 12:08:51] (4775) Found 2 source files
+[Info  - 12:10:44] (4775) Searching for source files
+[Info  - 12:10:44] (4775) Auto-excluding /home/aibarchyn/main/venv
+[Info  - 12:10:44] (4775) Found 3 source files

@@ -1,0 +1,15 @@
+[Info  - 13:31:59] (15840) Pylance language server 2022.8.30 (pyright ed13daf1) starting
+[Info  - 13:31:59] (15840) Server root directory: /home/aibarchyn/.vscode/extensions/ms-python.vscode-pylance-2022.8.30/dist
+[Info  - 13:32:00] (15840) Starting service instance "hello"
+[Info  - 13:32:00] (15840) Notebook support: LSP
+[Info  - 13:32:00] (15840) Interactive window support: LSP
+[Info  - 13:32:00] (15840) No configuration file found.
+[Info  - 13:32:00] (15840) No pyproject.toml file found.
+[Info  - 13:32:00] (15840) Setting pythonPath for service "hello": "/bin/python3"
+[Warn  - 13:32:00] (15840) stubPath /home/aibarchyn/hello/typings is not a valid directory.
+[Info  - 13:32:00] (15840) Assuming Python version 3.10
+[Info  - 13:32:00] (15840) Assuming Python platform Linux
+[Info  - 13:32:00] (15840) Searching for source files
+[Info  - 13:32:00] (15840) Found 4 source files
+[Info  - 13:32:00] (15840) Background analysis(1) root directory: /home/aibarchyn/.vscode/extensions/ms-python.vscode-pylance-2022.8.30/dist
+[Info  - 13:32:00] (15840) Background analysis(1) started

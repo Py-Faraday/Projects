@@ -1,0 +1,75 @@
+Visual Studio Code (1.70.1, undefined, desktop)
+Jupyter Extension Version: 2022.7.1102252217.
+Python Extension Version: 2022.12.0.
+Workspace folder /home/aibarchyn/bots/game_bot
+error 11:14:41.514: Exception while attempting zmq : [Error: /snap/core/current/usr/lib/x86_64-linux-gnu/libstdc++.so.6: version `GLIBCXX_3.4.22' not found (required by /home/aibarchyn/.vscode/extensions/ms-toolsai.jupyter-2022.7.1102252217/out/node_modules/zeromq/prebuilds/linux-x64/electron.napi.glibc.node)
+	at process.func [as dlopen] (node:electron/js2c/asar_bundle:5:1812)
+	at Object.Module._extensions..node (node:internal/modules/cjs/loader:1246:18)
+	at Object.func [as .node] (node:electron/js2c/asar_bundle:5:1812)
+	at Module.load (node:internal/modules/cjs/loader:1035:32)
+	at Module._load (node:internal/modules/cjs/loader:876:12)
+	at Function.c._load (node:electron/js2c/asar_bundle:5:13343)
+	at Function.r._load (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:14538)
+	at Function.b._load (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:62507)
+	at Function.v._load (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:61875)
+	at Module.require (node:internal/modules/cjs/loader:1059:19)
+	at p (/snap/code/104/usr/share/code/resources/app/out/vs/loader.js:4:699)
+	at load (/home/aibarchyn/.vscode/extensions/ms-toolsai.jupyter-2022.7.1102252217/out/node_modules/node-gyp-build/index.js:1:628)
+	at Object.<anonymous> (/home/aibarchyn/.vscode/extensions/ms-toolsai.jupyter-2022.7.1102252217/out/node_modules/zeromq/lib/native.js:1:198)
+	at Module.u._compile (/snap/code/104/usr/share/code/resources/app/out/vs/loader.js:4:1313)
+	at Object.Module._extensions..js (node:internal/modules/cjs/loader:1216:10)
+	at Module.load (node:internal/modules/cjs/loader:1035:32)
+	at Module._load (node:internal/modules/cjs/loader:876:12)
+	at Function.c._load (node:electron/js2c/asar_bundle:5:13343)
+	at Function.r._load (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:14538)
+	at Function.b._load (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:62507)
+	at Function.v._load (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:61875)
+	at Module.require (node:internal/modules/cjs/loader:1059:19)
+	at p (/snap/code/104/usr/share/code/resources/app/out/vs/loader.js:4:699)
+	at Object.<anonymous> (/home/aibarchyn/.vscode/extensions/ms-toolsai.jupyter-2022.7.1102252217/out/node_modules/zeromq/lib/index.js:1:144)
+	at Module.u._compile (/snap/code/104/usr/share/code/resources/app/out/vs/loader.js:4:1313)
+	at Object.Module._extensions..js (node:internal/modules/cjs/loader:1216:10)
+	at Module.load (node:internal/modules/cjs/loader:1035:32)
+	at Module._load (node:internal/modules/cjs/loader:876:12)
+	at Function.c._load (node:electron/js2c/asar_bundle:5:13343)
+	at Function.r._load (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:14538)
+	at Function.b._load (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:62507)
+	at Function.v._load (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:61875)
+	at Module.require (node:internal/modules/cjs/loader:1059:19)
+	at p (/snap/code/104/usr/share/code/resources/app/out/vs/loader.js:4:699)
+	at Object.92747 (/home/aibarchyn/.vscode/extensions/ms-toolsai.jupyter-2022.7.1102252217/out/extension.node.js:17:480874)
+	at __webpack_require__ (/home/aibarchyn/.vscode/extensions/ms-toolsai.jupyter-2022.7.1102252217/out/extension.node.js:17:1359444)
+	at l.zmqSupported (/home/aibarchyn/.vscode/extensions/ms-toolsai.jupyter-2022.7.1102252217/out/extension.node.js:2:2323521)
+	at l.isSupportedForLocalLaunch (/home/aibarchyn/.vscode/extensions/ms-toolsai.jupyter-2022.7.1102252217/out/extension.node.js:2:2323264)
+	at l.get isSupported [as isSupported] (/home/aibarchyn/.vscode/extensions/ms-toolsai.jupyter-2022.7.1102252217/out/extension.node.js:2:2323174)
+	at t.registerTypes (/home/aibarchyn/.vscode/extensions/ms-toolsai.jupyter-2022.7.1102252217/out/extension.node.js:2:2337703)
+	at /home/aibarchyn/.vscode/extensions/ms-toolsai.jupyter-2022.7.1102252217/out/extension.node.js:17:1364938
+	at /home/aibarchyn/.vscode/extensions/ms-toolsai.jupyter-2022.7.1102252217/out/extension.node.js:17:1365693
+	at /home/aibarchyn/.vscode/extensions/ms-toolsai.jupyter-2022.7.1102252217/out/extension.node.js:17:1365701
+	at e.activate (/home/aibarchyn/.vscode/extensions/ms-toolsai.jupyter-2022.7.1102252217/out/extension.node.js:17:1365823)
+	at Function._callActivateOptional (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:97:17473)
+	at Function._callActivate (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:97:17131)
+	at /snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:97:14942
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)
+	at async v._activate (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:8180)
+	at async v._waitForDepsThenActivate (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:8122)
+	at async v._initialize (/snap/code/104/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:7486)] {
+  code: 'ERR_DLOPEN_FAILED'
+}
+Пользователь принадлежит к экспериментальной группе "jupyterTestcf"
+Пользователь принадлежит к экспериментальной группе "jupyterEnhancedDataViewer"
+info 11:14:41.917: LSP Notebooks experiment is enabled
+info 11:14:41.971: Experiment status for python is {"enabled":true,"optInto":[],"optOutFrom":[]}
+info 11:14:42.122: Process Execution: > /bin/python3 -m pip list
+> /bin/python3 -m pip list
+info 11:14:42.134: Process Execution: > /bin/python3 -c "import jupyter"
+> /bin/python3 -c "import jupyter"
+info 11:14:42.145: Process Execution: > /bin/python3 -c "import notebook"
+> /bin/python3 -c "import notebook"
+info 13:58:54.744: Shutting down notebooks for 8aaca245-bf30-47fa-8601-073a6b8560cf
+info 13:58:54.745: Disposing HostJupyterExecution e5deae07-8605-47b2-848c-eb2a11b08665
+info 13:58:54.745: Disposing super HostJupyterExecution e5deae07-8605-47b2-848c-eb2a11b08665
+info 13:58:54.745: Disposing HostJupyterExecution e5deae07-8605-47b2-848c-eb2a11b08665
+info 13:58:54.745: Finished disposing HostJupyterExecution  e5deae07-8605-47b2-848c-eb2a11b08665
+info 13:58:54.750: Cleaning up server cache e5deae07-8605-47b2-848c-eb2a11b08665
+info 13:58:54.750: Finished disposing HostJupyterExecution  e5deae07-8605-47b2-848c-eb2a11b08665
