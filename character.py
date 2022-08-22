@@ -7,6 +7,7 @@ def get_list_characters() -> list:
     data = data['results']
     return data
 
+print(get_list_characters())
 
 def get_character_names() -> list:
     return [i['name'] for i in get_list_characters()]
