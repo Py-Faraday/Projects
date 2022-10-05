@@ -24,26 +24,26 @@ services:
       - ./:/app
     entrypoint: ./wsgi-entrypoint.sh
     ports:
-      - 8000:8000
+      - 8005:8005
     networks:
       - my-network
     depends_on:
       - db
-  nginx:
-    container_name: mad_devs_nginx
-    build:
-      context: ./docker/nginx
-      dockerfile: Dockerfile
-    ports:
-      - 80:80
-    volumes:
-      - ./static/:/static
-      - ./media/:/media
-    networks:
-      - my-network
-    depends_on:
-      - db
-      - web
+  # nginx:
+  #   container_name: mad_devs_nginx
+  #   build:
+  #     context: ./docker/nginx
+  #     dockerfile: Dockerfile
+  #   ports:
+  #     - 80:80
+  #   volumes:
+  #     - ./static/:/static
+  #     - ./media/:/media
+  #   networks:
+  #     - my-network
+  #   depends_on:
+  #     - db
+  #     - web
 
 
 
