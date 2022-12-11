@@ -24,20 +24,16 @@ def get_names() -> list:
 # print(get_episode_data("Ricksy Business"))
 
 
-def get_episode_names() -> list:
-    data = []
-    for url in get_episode:
-        r = requests.get(url)
-        name = r['name']
-        data.append(name)
-        text = f'''
-id: {data['id']}
-name: {data['name']}
-air_date:{data['air_date']}
-characters:{data['characters']}
-episode:{data}
+def get_episode_names(name:str) -> list:
+        data = get_episode_data(name) 
+        text = f'''\
+        \nid: {data['id']}
+        \nname: {data['name']}
+        \nair_date:{data['air_date']}
+        \ncharacters:{data['characters']}
 
     '''
-    return text 
-
+        return text 
+    
+# print(get_episode_names('Meeseeks and Destroy'))
 

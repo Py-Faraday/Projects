@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 0 15px;
+
+}
+
+.items-block {
+    padding-top: 50px;
+    padding-bottom: 100px;
+    background: #ccc;
+}
+
+.items {
+    background: violet;
+    margin: 30px 0 200px;
+    padding: 50px 0;
+}
+
+.item {
+    padding: 20px;
+    font-size: 20px;
+}
+
+.item-1 {
+    background: pink;
+}
+
+.item-2 {
+    background: gold;
+    position: absolute;
+    top: 23px;
+    left: 23px;
+    transform: translate(67, 23);
+
+}
+
+.item-3 {
+    background: lightblue;
+}
+
+.item-4 {
+    background: orange;
+}

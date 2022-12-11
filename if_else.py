@@ -309,4 +309,72 @@
 
 
 
-    
+
+# menu = {'lagman': 120, 'plov': '120', 'borsh': 100}
+# menu['besh_barmak'] = 130
+# # print(menu)
+# menu['lagman'] = 135 
+# menu.pop('borsh')
+# print(menu)
+
+
+# s = {}
+# name = input('Ваше имя: ')
+# name = input('Ваше имя: ')
+# name = input('Ваше имя: ')
+
+# password = input('Ваш пароль: ')
+# password = input('Ваш пароль: ')
+# password = input('Ваш пароль: ')
+
+# print(f'{name}:{password}, s')
+
+
+# dic = {'emma':'doctor'}
+# dic2 = {'jon':'voditel'}
+# dic3 = {'jon':'voditel'}
+# dic4 = {'wella':'programming'}
+# dic5 = {'qwen':'kocmonaft'}
+
+# for i in dic:
+#     print(f'Здравствуйте \nПрекрасная профессия')
+
+# number = int(input('Введите чисело: '))
+# number = int(input('Введите чисело: '))
+# number = int(input('Введите чисело: '))
+# number = int(input('Введите чисело: '))
+# number = int(input('Введите чисело: '))
+# number = int(input('Введите чисело: '))
+# number = int(input('Введите чисело: '))
+# number = int(input('Введите чисело: '))
+# number = int(input('Введите чисело: '))
+# number = int(input('Введите чисело: '))
+# s = {}
+# print()
+
+
+
+# menu = {'lagman': 120, 'plov': '120', 'borsh': 100,'drinks':['Coca-Cola', 'Sprite', 'Fanta']}
+# print(menu)
+
+
+# south_american_countries = ['Argentina', 'Bolivia', 'Brazil', 'Chile', 'Colombia','Ecuador', 'Guyana', 'Paraguay', 'Peru', 'Suriname', 'Suriname', 'Uruguay', 'Venezuela']
+# south_american_countries.remove('Suriname')
+# print(south_american_countries)
+
+
+# suitcase = []
+# s = ['pasport','ticker','pancake','cream','tyui']
+# suitcase.append(s)
+# print(suitcase)
+
+# farm_1 = {"dog", "cat", "mouse", "sheep"}
+# farm_2 = {"cow", "horse", "donkey", "cat", "dog"}
+# f = farm_1.intersection(farm_2)
+# print(f)
+
+# farm_1 = {"dog", "cat", "mouse", "sheep"}
+# farm_2 = {"cow", "horse", "donkey", "cat", "dog"}
+
+# d = farm_2.difference(farm_1)
+# print(d)

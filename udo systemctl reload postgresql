@@ -1,0 +1,12 @@
+[0;1;32m●[0m postgresql.service - PostgreSQL RDBMS
+     Loaded: loaded (/lib/systemd/system/postgresql.service; enabled; vendor preset: enabled)
+     Active: [0;1;32mactive (exited)[0m since Tue 2022-10-04 14:47:57 +06; 21s ago
+    Process: 8703 ExecStart=/bin/true (code=exited, status=0/SUCCESS)
+    Process: 8710 ExecReload=/bin/true (code=exited, status=0/SUCCESS)
+   Main PID: 8703 (code=exited, status=0/SUCCESS)
+        CPU: 1ms
+
+Oct 04 14:47:57 egida-Aspire-A315-56 systemd[1]: Starting PostgreSQL RDBMS...
+Oct 04 14:47:57 egida-Aspire-A315-56 systemd[1]: Finished PostgreSQL RDBMS.
+Oct 04 14:48:07 egida-Aspire-A315-56 systemd[1]: Reloading PostgreSQL RDBMS...
+Oct 04 14:48:07 egida-Aspire-A315-56 systemd[1]: Reloaded PostgreSQL RDBMS.

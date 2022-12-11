@@ -1,0 +1,10 @@
+{% extends 'base.html' %}
+
+{% block content %}
+{% for aboutme in object_list %}
+<div class="post-entry">
+    <h2><a href="">{{ aboutme.user }}</a></h2>
+    <p>{{ aboutme.biography }}</p>
+</div>
+{% endfor %}
+{% endblock content %}

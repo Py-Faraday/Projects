@@ -92,28 +92,26 @@
 
 
 
-# import requests
-# from config import API
-# from datetime import datetime
+import requests
+from config import API
+from datetime import datetime
 
 
-# def pop(city):
-#     try:
-#         url = f"http://api.openweathermap.org/data/2.5/weather?q={city}&appid={API}&units=metric"
-#         r = requests.get(url)
-#         data = r.json()
-#         text = f'''
-#         Дата: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}
-#         Погода в городе: {data['name']}
-#         Температура: {data['main']['temp']}
-#         Влажность: {data['main']['humidity']}
-#         Давление: {data['main']['pressure']} мм.рт.ст
-#         Скорость ветра: {data['wind']['speed']}
-#         Восход: {datetime.fromtimestamp(data['sys']['sunrise'])}
-#         Закат: {datetime.fromtimestamp(data['sys']['sunset'])}
-#         '''
-#         return text
-#     except Exception:
-#         return 'Такого города нет'
-    
-    
+def pop(city):
+    try:
+        url = f"http://api.openweathermap.org/data/2.5/weather?q={city}&appid={API}&units=metric"
+        r = requests.get(url)
+        data = r.json()
+        text = f'''
+        Дата: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}
+        Погода в городе: {data['name']}
+        Температура: {data['main']['temp']}
+        Влажность: {data['main']['humidity']}
+        Давление: {data['main']['pressure']} мм.рт.ст
+        Скорость ветра: {data['wind']['speed']}
+        Восход: {datetime.fromtimestamp(data['sys']['sunrise'])}
+        Закат: {datetime.fromtimestamp(data['sys']['sunset'])}
+        '''
+        return text
+    except Exception:
+        return 'Такого города нет'

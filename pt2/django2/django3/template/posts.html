@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    div.obshyi {
+        display: flex;
+        justify-content: space-around;
+        flex-wrap: wrap;
+    }
+
+    div.card {
+        width: 200px;
+        border: 1px solid black;
+        margin: 10px 20px 0 20px;
+        padding: 10px;
+    }
+</style>
+<body>
+    <a href="{% url 'create_post' %}">Создать</a>
+    {% for post in posts %}
+    <div class="post-block">
+        <h2 class="title">
+            {{post.title}}
+        </h2>
+        <p class="description">
+            {{post.description}}
+        </p>
+        <h5 class="created_at">
+            {{post.created_at}}
+        </h5>
+        <a href="{{% url 'post_detail' post.id %}}" class="detail">Посмотреть</a>
+    </div>
+    {{% endfor %}}
+</body>
+</html>

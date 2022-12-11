@@ -1,0 +1,94 @@
+body {
+    font-family: 'Istok Web', sans-serif;
+}
+
+.header {
+    background-color: #775ba3;
+}
+
+
+.btn-user {
+    background-color: transparent;
+    border: none;
+    color: aliceblue;
+    font-size: 20px;
+    margin-left: auto;
+}
+
+
+.carousel-indicators [data-bs-target] {
+    width: 12px;
+    height: 12px;
+    border-radius: 50px;
+    background-color: transparent;
+    border: 2px solid #fff;
+    opacity: 1;
+}
+
+
+.carousel-indicators .active {
+    background-color: #fff;
+    width: 8px;
+    height: 8px;
+    margin-top: 2px;
+}
+
+
+.main-text {
+    text-align: center;
+    padding-top: 55px;
+}
+
+.main-text h1 {
+    color: #775ba3;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.main-text p {
+    font-size: 23px;
+    padding-left: 79px;
+    padding-right: 55px;
+}
+
+
+.container-2 {
+    display: flex;
+}
+
+.container-2 h1 {
+    color: #775ba3;
+    font-size: 30px;
+    font-weight: bold;
+    padding-top: 130px;
+    text-align: center;
+}
+
+.box1 h2 {
+    font-size: 50px;
+    text-align: center;
+    padding-top: 10px;
+}
+
+
+.box1 {
+    padding-left: 100px;
+    padding-right: 900px;
+    padding-top: 34px;
+    text-align: center;
+}
+
+.box2 {
+    padding-left: 100px;
+    padding-right: 900px;
+    padding-top: 34px;
+    text-align: center;
+}
+
+
+.box3 {
+    padding-left: 100px;
+    padding-right: 900px;
+    padding-top: 34px;
+    text-align: center;
+}

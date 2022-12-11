@@ -556,3 +556,69 @@
 # rec(a)
 
 
+
+# for i in range(1,10):
+#     for j in range():
+#         s = j * i 
+#         print(f'{j} * {i} = {s}')
+    
+# age = 26
+# name = 'Swaroop'
+# book = 'A Byte of Python'
+# print('Возраст {0} -- {1} лет.'.format(name, age))
+# print('Почему {0} забавляется с этим Python?'.format(name))
+
+
+# # print('{0:.5}'.format(1/3))
+# # print('{0:_^20}'.format('hello'))
+
+# print(f'{name} написал {book}')
+
+# def sayhello():
+#     print('Hello')
+#     print('world')
+    
+# def s(b):
+#     print('Квадрат числа',b,'=',b**2)
+
+# for i in range(1,11):
+#     s(i)
+
+# def mul(a,b):
+#     print(a*b)
+    
+# mul(3,7)
+
+# bicycles = ['trek', 'cannondale', 'redline', 'specialized']
+# print(f'My bicycle {bicycles[0].title()}')
+
+
+# names = ['qwert','ray','pop','trey','alina','sara']
+
+# print(f'Message with {names[0].title()}')
+# print(f'Message with {names[1].title()}')
+# print(f'Message with {names[2].title()}')
+# print(f'Message with {names[3].title()}')
+# print(f'Message with {names[-2].title()}')
+# print(f'Message with {names[-1].title()}')
+
+
+# s = ['names','ages','tall','short']
+# s[0] = 'qwerty'
+# print(s)
+
+
+# s = []
+# s.append('qwer')
+# s.append('sindi')
+# s.append('sara')
+# print(s)
+
+# age = [12, 89,23,32,80]
+# age.insert(2, 15)
+# print(age)
+
+A = ['red', 'green', 'blue']
+print(' '.join(A))
+print(''.join(A))
+print('***'.join(A))

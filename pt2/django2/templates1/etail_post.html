@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    div.card {
+        width: 300px;
+        border: 2px solid silver;
+        margin: 10px 20px 0 20px;
+        padding: 10px;
+    }
+
+    div.wrapper {
+        display: flex;
+    }
+</style>
+<body>
+    <div class="card">
+        <h1>{{post.title}}</h1>
+        <p>{{post.description}}</p>
+        <h2>{{post.created_at}}</h2>
+        <h3>{{post.user}}</h3>
+        <p>{{post.raiting}}</p>
+        <a href="{% url 'index' %}">На главную</a>
+    </div>
+</body>
+</html>

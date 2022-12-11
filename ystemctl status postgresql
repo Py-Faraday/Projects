@@ -1,0 +1,9 @@
+[0;1;32m●[0m postgresql.service - PostgreSQL RDBMS
+     Loaded: loaded (/lib/systemd/system/postgresql.service; enabled; vendor preset: enabled)
+     Active: [0;1;32mactive (exited)[0m since Tue 2022-10-04 14:29:42 +06; 14min ago
+    Process: 6027 ExecStart=/bin/true (code=exited, status=0/SUCCESS)
+   Main PID: 6027 (code=exited, status=0/SUCCESS)
+        CPU: 2ms
+
+Oct 04 14:29:42 egida-Aspire-A315-56 systemd[1]: Starting PostgreSQL RDBMS...
+Oct 04 14:29:42 egida-Aspire-A315-56 systemd[1]: Finished PostgreSQL RDBMS.

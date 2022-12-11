@@ -1,0 +1,45 @@
+body {
+    font-size: 14px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: normal;
+}
+
+.container-1 {
+    background: url(/potoub-html/images/bg.jpg);
+    background: #11aeef;
+    padding: 75px 0 90px 0;
+    width: auto 100%;
+    padding: 35px 30px;
+    position: absolute;
+    z-index: 960;
+}
+
+.box {
+    float: right;
+    width: 100%;
+    max-width: auto 100%;
+
+}
+
+.box h1 {
+    color: #fff;
+    padding-top: 20px;
+    font-size: 50px;
+    line-height: 85px;
+    padding-bottom: 15px;
+    font-weight: bold;
+}
+
+.box p {
+    font-size: 17px;
+    display: block;
+    color: #fff;
+    line-height: 25px;
+    padding-bottom: 20px;
+    font-weight: 23px;
+}
+
+.box figure {
+    margin: 0px;
+
+}

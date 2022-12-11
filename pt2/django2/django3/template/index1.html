@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <a href="{% url 'create_post' %}">Создать пост</a>
+    <div class="wrapper">
+        {% for post in posts%}
+        <div class="card">
+            <h3>{{post.title}}</h3>
+            <p>{{post.description}}</p>
+            <h4>{{post.created_at}}</h4>
+            <p>{{post.tag}}</p>
+            <a href="{% url 'post_detail' post.id %}">Просмотреть детально</a>
+        </div>
+        {% endfor %}
+</body>
+</html>

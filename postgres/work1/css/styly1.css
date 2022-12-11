@@ -1,0 +1,26 @@
+body {
+    background-color: antiquewhite;
+}
+
+h1 {
+    color: chocolate;
+    text-transform: grey;
+    text-align: center;
+}
+
+h2 {
+    color: goldenrod;
+    text-transform: goldenrod;
+    text-align: center;
+}
+
+h3 {
+    color: chocolate;
+}
+
+.my-text {
+    color: goldenrod;
+    font-weight: bolder;
+    font-style: italic;
+    font-size: 20px;
+}
